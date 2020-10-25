@@ -40,6 +40,6 @@ public class Test {
 3.在Course类创建课程信息并将所选课覆盖即退课
 4 在test里输入选课信息之后退课
 七、实验结果
-![Image text]()
+![Image text](https://github.com/SYW-github/-/blob/main/1603607232(1).png)
 八、实验感想
 对super访问父类属性和extends继承父类构造方法有一些了解
